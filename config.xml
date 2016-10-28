@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        id          = "com.maleo.kbbi"
+        version     = "0.0.1"
+        height      = "600"
+        width       = "1024">
+ 
+  <name short="KBBI IV Daring">
+    KBBI IV Daring
+  </name>
+
+  <description>
+	KBBI IV Daring Running From Maleo
+  </description>
+
+  <author href="http://kbbi4.portalbahasa.com/">KBBI IV Daring</author>
+
+  <icon src="kbbi4-daring.svg"/>
+  <content src="index.html"/>
+
+  <license>
+    (c) © 2016 Badan Pengembangan dan Pembinaan Bahasa
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia
+  </license>
+</widget>
